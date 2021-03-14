@@ -6,4 +6,4 @@ here list of general task for the project (it will automatically change on the f
 
 - [x] Add padding into Dice image 1
 - [x] Add padding into Dice image 2
-- [ ] make build and upload firebase hosting
+- [x] make build and upload firebase hosting
